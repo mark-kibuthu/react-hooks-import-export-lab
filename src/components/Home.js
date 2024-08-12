@@ -6,7 +6,8 @@ function Home() {
   return (
     <div id="home">
       <h1>
-        {username} is a Web Developer from {city}
+        {username} is a Web Developer from <br></br>
+        {city}
       </h1>
     </div>
   );
